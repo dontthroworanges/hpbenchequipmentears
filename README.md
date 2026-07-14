@@ -5,3 +5,4 @@
 
 ![Angle 1](HP_Ear1.png)
 ![Angle 1](HP_Ear2.png)
+![Example](PXL_20260714_222947982.PORTRAIT.jpg)
